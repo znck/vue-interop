@@ -1,9 +1,5 @@
-<div style="text-align: center" markdown="1">
-
-![](InterOp.png)
-
-# Vue InterOp
-
+<div style="text-align: center" align="center">
+  <img src="InterOp.png" height="144">
 </div>
 
 ## Introduction
@@ -17,4 +13,4 @@ To propose a Vue InterOp Standard:
 - Send a Pull Request and begin discussion.
 
 ## Voting Members
-- Evan You (@yyx990803)
+- xxxx
