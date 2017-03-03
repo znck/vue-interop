@@ -8,4 +8,4 @@ and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119]
 ## 1. Overview
 
 - Component MUST support `v-model` directive.
-- Component MUST provide support for setting all attributes available for <input> tag.
+
